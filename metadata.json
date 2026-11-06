@@ -1,0 +1,6 @@
+{
+  "name": "AI Quote Generator",
+  "description": "Turn customer requests into accurate, professional quotations matched against your price catalogue with human approval and email delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
